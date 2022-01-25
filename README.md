@@ -37,11 +37,11 @@ I am open for collaborations, so if you find my work interesting feel free to se
 ---
 
 ### GitHub Stats
-
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YesMarsh&show_1cons=true&theme=radical" />
-
 <img
-  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YesMarsh&hide=html&layout=compact&title_color=AD058F&bg_color=0C2233&text_color=D6D6D6"
-/>
+  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YesMarsh&hide=html&layout=compact&title_color=AD058F&bg_color=0C2233&text_color=D6D6D6" 
+/></p>
+ 
      
 
