@@ -1,13 +1,15 @@
 
 <img src="/banner LinkedIn.gif" alt="banner" width="1200" height="300"/>
 
+
+
 ### Hi there and Welcome to my GitHub page 👋
 
 My Name is Michael Rodrigues and I am a web Developer From Brazil, São paulo.  I do a lot of different things, and some of them you may say even find interesting. 🤞
 
 ---
 
-### What do I do ?
+###  Languages and Tools:
 
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -16,9 +18,6 @@ My Name is Michael Rodrigues and I am a web Developer From Brazil, São paulo.  
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
 </p>
-
-
-- I enjoy making websites and web applications with JavaScript-based technologies like React.
 
 ---
 
