@@ -17,6 +17,8 @@ My Name is Michael Rodrigues and I am a web Developer From Brazil, São paulo.  
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
 </p>
 
+I'm passionate about web development. I enjoy making websites and web applications with JavaScript-based technologies like React.
+
 ---
 
 ### Send me a message!
