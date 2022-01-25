@@ -3,7 +3,7 @@
 
 ### Hi there and Welcome to my GitHub page 👋
 
-My Name is Michael Rodrigues and I am a web Developer From Brazil, São paulo.  I do a lot of things, and some of them you may say even find interesting. 🤞
+My Name is Michael Rodrigues and I am a web Developer From Brazil, São paulo.  I do a lot of different things, and some of them you may say even find interesting. 🤞
 
 ---
 
@@ -36,5 +36,10 @@ I am open for collaborations, so if you find my work interesting feel free to se
 
 ### GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YesMarsh"  />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YesMarsh&show_1cons=true&theme=radical" />
+
+<img
+  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YesMarsh&hide=html&layout=compact&title_color=AD058F&bg_color=0C2233&text_color=D6D6D6"
+/>
+     
 
