@@ -1,5 +1,5 @@
 
-<img src="/banner LinkedIn.gif" alt="banner" />
+<img src="/banner LinkedIn.gif" alt="banner" width="1200" height="300"/>
 
 ### Hi there and Welcome to my GitHub page 👋
 
