@@ -17,6 +17,7 @@ My Name is Michael Rodrigues and I am a web Developer From Brazil, São paulo.  
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E91CB?logo=typescript&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
