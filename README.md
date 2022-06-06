@@ -5,7 +5,7 @@
 
 ### Hi there and Welcome to my GitHub page 👋
 
-My Name is Michael Rodrigues and I am a web Developer From Brazil, São paulo.  I do a lot of different things, and some of them you may say even find interesting. 🤞
+My Name is Michael Rodrigues and I am a web Developer From Brazil, São paulo.  I do a lot of different things, and some of them you may even find interesting. 🤞
 
 ---
 
