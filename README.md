@@ -1,5 +1,5 @@
 
-<img src="/banner LinkedIn.gif" alt="banner" width="800" height="300"/>
+<img src="/banner LinkedIn.gif" alt="banner" width="850" height="300"/>
 
 
 
